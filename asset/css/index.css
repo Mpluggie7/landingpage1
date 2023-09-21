@@ -1,0 +1,35 @@
+body {
+  font-family: "Kanit", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-weight: 300;
+}
+
+.overlayHead {
+  background-color: black;
+  opacity: 0.6;
+}
+
+.aboutImg {
+  object-position: 50% 30%;
+}
+
+.destinationLink {
+  padding-top: 72px !important;
+}
+
+.iconLink a {
+  text-decoration: none;
+  color: black;
+}
+
+.w3school {
+  font-size: 12px;
+}
